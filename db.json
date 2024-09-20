@@ -1,0 +1,19 @@
+{
+
+"menu":[
+  
+{"id":1,"name":"فیلیموتور" , "href":"https://www.filimo.com/" ,"image":"./public/css/svg/fire.svg"},
+{
+  "id": 2,
+  "name": "فیلیمو مدرسه",
+  "href": "https://www.filimo.com/",
+  "image": "./public/css/svg/school.svg"
+},
+{ "id": 3, "name": "جستجو", "href": "https://www.filimo.com/", "image": "./public/css/svg/zoom.svg" }
+
+
+
+]
+
+
+}
